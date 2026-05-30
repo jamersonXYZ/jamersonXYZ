@@ -6,14 +6,13 @@
 
 
 🎓 me chamo,[jamerson garces](https://www.linkedin.com/in/jamerson-garces-4267a51b6/)", sou Acadêmico de Engenharia de Software, mas já mergulhando de cabeça no universo da tecnologia.  
-💻 Meu foco inicial é atuar em **Suporte de TI**, aproveitando minha experiência prévia como vendedor e repositor para desenvolver habilidades de atendimento e resolução de problemas.  
+💻      Meu foco inicial é atuar em **Suporte de TI**, aproveitando minha experiência prévia como vendedor e repositor para desenvolver habilidades de atendimento e resolução de problemas.  
 🚀 Paralelamente, estou construindo minha jornada rumo ao **Back-End**, com especial dedicação à linguagem **Python**.
 
 Aqui no GitHub você vai encontrar:
 🌟 Projetos pessoais que refletem minha evolução como desenvolvedor  
 🤝 Colaborações em open source, porque acredito que tecnologia se fortalece quando é compartilhada  
 🎨 Um perfil criativo e profissional, feito para atrair recrutadores e mostrar meu potencial  
-
 ✨ Estou sempre aprendendo, criando e buscando transformar ideias em soluções reais.  
 Se quiser trocar conhecimento ou colaborar em projetos, será um prazer conectar!
 
@@ -89,22 +88,6 @@ align="left"
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### (----------------------------------------------------------------------------------------------------------------------------)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jamersonXYZ&show_icons=false&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamersonXYZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img width="890" height="300" alt="Image" src="https://github.com/user-attachments/assets/715f7417-d42f-4675-9fa6-9553aa2bacfd" />

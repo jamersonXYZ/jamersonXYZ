@@ -5,8 +5,8 @@
 **`Desenvolvedor back-and e suporte de TI`**
 
 
-🎓 me chamo,[jamerson garces](https://www.linkedin.com/in/jamerson-garces-4267a51b6/)", sou Acadêmico de Engenharia de Software, mas já mergulhando de cabeça no universo da tecnologia.  
-💻      Meu foco inicial é atuar em **Suporte de TI**, aproveitando minha experiência prévia como vendedor e repositor para desenvolver habilidades de atendimento e resolução de problemas.  
+🎓 me chamo,[jamerson garces](https://www.linkedin.com/in/jamerson-garces-4267a51b6/), sou Acadêmico de Engenharia de Software, e curso o modulo 1 na incode tech school, mas já mergulhando de cabeça no universo da tecnologia.  
+💻 Meu foco inicial é atuar em **Suporte de TI**, aproveitando minha experiência prévia como vendedor e repositor para desenvolver habilidades de atendimento e resolução de problemas.  
 🚀 Paralelamente, estou construindo minha jornada rumo ao **Back-End**, com especial dedicação à linguagem **Python**.
 
 Aqui no GitHub você vai encontrar:
@@ -17,6 +17,9 @@ Aqui no GitHub você vai encontrar:
 Se quiser trocar conhecimento ou colaborar em projetos, será um prazer conectar!
 
 
+---
+
+###🌍 Neteworking
 
 <div> 
 
@@ -27,7 +30,7 @@ Se quiser trocar conhecimento ou colaborar em projetos, será um prazer conectar
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack 
 
 <img 
     align="left" 
@@ -88,6 +91,33 @@ align="left"
 <br/>
 <br/>
 
+
+---
+
+###📝 Estudando!
+
+•	🌐 HTML 5
+•	🖌️ CSS3
+•	👾 JavaScript
+•	🐍 Python
+•	🛠️ Git e GitHub
+
+
+---
+
+###⚜️ Projetos em Destaque
+
+⚠️Em Breve, será destacados os melhores projetos aqui !
+
+
+---
+
+###💭 Frase que me inspira
+🌟 "O futoro pertence aqueles que acreidtam na beleza dos seus sonhos" - [Eleanor Roosevelt](https://pt.wikiquote.org/wiki/Eleanor_Roosevelt)
+
+
+---
+
 ###📊Estatísticas
 
 <div>
@@ -96,5 +126,7 @@ align="left"
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamersonXYZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+
+---
+
 <img width="890" height="300" alt="Image" src="https://github.com/user-attachments/assets/715f7417-d42f-4675-9fa6-9553aa2bacfd" />

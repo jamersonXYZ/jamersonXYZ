@@ -114,7 +114,7 @@ align="left"
 
 ### 💭 Frase que me inspira
 
-🌟 "O futoro pertence aqueles que acreidtam na beleza dos seus sonhos" - [Eleanor Roosevelt](https://pt.wikiquote.org/wiki/Eleanor_Roosevelt)
+🌟 "O Futuro pertence aqueles que acreidtam na beleza dos seus sonhos" - [Eleanor Roosevelt](https://pt.wikiquote.org/wiki/Eleanor_Roosevelt)
 
 
 ---

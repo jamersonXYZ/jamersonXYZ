@@ -19,7 +19,7 @@ Se quiser trocar conhecimento ou colaborar em projetos, será um prazer conectar
 
 ---
 
-###🌍 Neteworking
+### 🌍 Neteworking
 
 <div> 
 
@@ -94,7 +94,7 @@ align="left"
 
 ---
 
-###📝 Estudando!
+### 📝 Estudando!
 
 •	🌐 HTML 5
 •	🖌️ CSS3
@@ -105,7 +105,7 @@ align="left"
 
 ---
 
-###⚜️ Projetos em Destaque
+### ⚜️ Projetos em Destaque
 
 ⚠️Em Breve, será destacados os melhores projetos aqui !
 
@@ -118,7 +118,7 @@ align="left"
 
 ---
 
-###📊Estatísticas
+### 📊Estatísticas
 
 <div>
 <a href="https://github.com/jamersonXYZ">

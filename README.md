@@ -88,7 +88,7 @@ align="left"
 <br/>
 <br/>
 
-### Estatísticas
+###:chart_with_upwards_trend: Estatísticas
 
 <div>
 <a href="https://github.com/jamersonXYZ">

@@ -88,6 +88,13 @@ align="left"
 <br/>
 <br/>
 
-### (----------------------------------------------------------------------------------------------------------------------)
+### Estatísticas
 
+<div>
+<a href="https://github.com/jamersonXYZ">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamersonXYZ&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamersonXYZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+###
 <img width="890" height="300" alt="Image" src="https://github.com/user-attachments/assets/715f7417-d42f-4675-9fa6-9553aa2bacfd" />

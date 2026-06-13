@@ -131,4 +131,4 @@ align="left"
 ---
 
 <img width="890" height="300" alt="Image" src="https://github.com/user-attachments/assets/715f7417-d42f-4675-9fa6-9553aa2bacfd" />
-![Snake animation](https://github.com/jamersonXYZ/jamersonXYZ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jamersonXYZ/blob/output/github-contribution-grid-snake.svg)

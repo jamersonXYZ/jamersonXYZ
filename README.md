@@ -23,7 +23,7 @@ Se quiser trocar conhecimento ou colaborar em projetos, será um prazer conectar
 
 <div> 
 
-  <a href="https:  " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https:https://discord.com/channels/@me " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "jamerson garces:jamersongarces2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jamerson-garces-4267a51b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZPTRO6x1Quak6xCGQO%2FXLw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
